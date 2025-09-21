@@ -1,7 +1,7 @@
 <!-- Profile README for adnan1404-ds -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="120" alt="adnan1404-ds avatar" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/210987416?s=400&v=4" width="120" alt="adnan1404-ds avatar" style="border-radius:50%">
 </p>
 
 <h1 align="center">Hi, I'm Adnan 👋</h1>
