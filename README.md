@@ -1,68 +1,18 @@
-<!-- Profile README for adnan1404-ds -->
+# 💫 About Me:
+🔭 I’m currently working as an AI Engineer & Data Strategist, specializing in custom AI agents and RPA systems.<br><br>🤝 I’m looking for help with scaling autonomous agent architectures and integrating advanced predictive modeling into live MVPs.<br><br>🌱 I’m currently learning deep-level data science analytics and the latest breakthroughs in LLM orchestration.<br><br>💬 Ask me about TypeScript, React, prompt engineering, or how to bridge human creativity with AI efficiency.<br><br>⚡ Fun fact: I believe the best code is the kind that eventually automates its own repetitive tasks!
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/210987416?s=400&v=4" width="120" alt="adnan1404-ds avatar" style="border-radius:50%">
-</p>
 
-<h1 align="center">Hi, I'm Adnan 👋</h1>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61557808115038) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrx.kashmiri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/s-adnan-b0707935b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnan1404.datascience@gmail.com) 
 
-<p align="center">
-  <b>Data Science & AI Enthusiast | Eager Learner | Innovator</b>
-</p>
-
----
-
-🌟 **About Me**
-
-I'm a passionate data science and artificial intelligence enthusiast, always exploring the latest in machine learning, deep learning, NLP, computer vision, generative AI, and data visualization. I thrive on building real-world solutions using Python and state-of-the-art AI techniques.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=adnan1404-ds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=adnan1404-ds&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adnan1404-ds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=adnan1404-ds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🛠️ **Tech Stack & Skills**
-
-- **Languages:** Python
-- **Core Areas:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Data Visualization
-- **Tools & Libraries:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, OpenCV, Matplotlib, Seaborn, and more
-- **Other Interests:** Experimenting with new AI models, data storytelling, hackathons, and impactful projects
-
----
-
-🚀 **Highlighted Projects**
-
-- [Disease Prediction Using Patient Data](https://github.com/adnan1404-ds/Disease-Prediction-Using-Patient-Data)  
-  <sub>Predicting diseases from patient data using advanced ML algorithms.</sub>
-
-- [Skin Cancer and Pneumonia Detection](https://github.com/adnan1404-ds/Skin-Cancer-and-Pneumonia-Detection)  
-  <sub>Deep learning models for medical image diagnosis—empowering early detection.</sub>
-
-- [Cancer Detection Using Histopathological Images](https://github.com/adnan1404-ds/Cancer-Detection-Using-Histopathological-Images-)  
-  <sub>Applying deep learning to analyze histopathological images for cancer classification.</sub>
-
-- [ANN on Churn Product Prediction](https://github.com/adnan1404-ds/ANN-on-Churn-Product-Prediction)  
-  <sub>Artificial Neural Networks for predicting customer churn in products.</sub>
-
-- [Adnan WeatherApp](https://github.com/adnan1404-ds/Adnan-WheaterApp)  
-  <sub>A simple weather application powered by data APIs and visualization tools.</sub>
-
----
-
-📈 **Let's Connect & Collaborate!**
-
-I'm always open to new opportunities, collaborations, and discussions about AI and data science.  
-Feel free to reach out or check out my work!
-
-<!-- Optionally, add social links below when ready -->
-<!--
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](YOUR-LINKEDIN-URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=flat-square)](YOUR-TWITTER-URL)
--->
-
----
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-  
-  ![adnan1404-ds's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan1404-ds&show_icons=true&theme=default)
-</details>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
